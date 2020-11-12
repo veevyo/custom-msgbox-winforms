@@ -1,0 +1,14 @@
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\bin\Debug\styling-and-functionality-test-msgbox.exe.config
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\bin\Debug\styling-and-functionality-test-msgbox.exe
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\bin\Debug\styling-and-functionality-test-msgbox.pdb
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling_and_functionality_test_msgbox.Test.resources
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling_and_functionality_test_msgbox.Form2.resources
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling_and_functionality_test_msgbox.msg.resources
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling_and_functionality_test_msgbox.msg2_1.resources
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling_and_functionality_test_msgbox.msg2.resources
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling_and_functionality_test_msgbox.Properties.Resources.resources
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling-and-functionality-test-msgbox.csproj.GenerateResource.cache
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling-and-functionality-test-msgbox.csproj.CoreCompileInputs.cache
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling-and-functionality-test-msgbox.exe
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling-and-functionality-test-msgbox.pdb
+C:\Users\veevyo\source\repos\styling-and-functionality-test-msgbox\styling-and-functionality-test-msgbox\obj\Debug\styling-and-functionality-test-msgbox.csprojAssemblyReference.cache
